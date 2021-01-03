@@ -1,0 +1,20 @@
+html{
+    font-size: 10px;
+}
+body{
+    font-family: Noto Sans TC,微軟正黑體,sans-serif;
+    background-image: url(../assets/bac666.jpg);
+}
+* {
+    box-sizing: border-box;
+}
+@media screen and (max-width: 991px) {
+    html{
+        font-size: 8px;
+    }
+}
+@media screen and (max-width: 768px){
+    html{
+        font-size: 7px;
+    }
+}
