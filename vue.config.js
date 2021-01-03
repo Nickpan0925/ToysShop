@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/vue-couse'
+  publicPath: '/ToysShop/dist/'
 }
