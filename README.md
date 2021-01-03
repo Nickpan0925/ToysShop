@@ -1,19 +1,3 @@
-# vue-project
+#使用Vue Cli 來製作 SPA 網站，具後台控制及前台瀏覽
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+作品連結(https://nickpan0925.github.io/ToysShop/dist/#/home)
