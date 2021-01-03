@@ -20,9 +20,14 @@
 * HTML
 * CSS
 * RWD
-* 網頁切版
 * JavaScript
 * Axios
 * Vue cli
 * VueRouter
+
+**使用套件**:
+* VeeValidate(表單驗證)
+* vue-axios
+* Font Awesome
+* ue-m-message(錯誤訊息回饋)
 
