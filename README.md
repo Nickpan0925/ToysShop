@@ -17,12 +17,12 @@
 6. 優惠券使用
 
 **使用技術**:
-*HTML
-*CSS
-*RWD
-*網頁切版
-*JavaScript
-*Axios
-*Vue cli
-*VueRouter
+* HTML
+* CSS
+* RWD
+* 網頁切版
+* JavaScript
+* Axios
+* Vue cli
+* VueRouter
 
